@@ -17,7 +17,7 @@ h2 {
 
 .w {
  background-image: url("images/tom1.png");
- background-size: auto, auto;
+ background-size: contain;
  background-repeat: no-repeat;
 }
 
